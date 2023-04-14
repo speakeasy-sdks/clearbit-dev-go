@@ -1,9 +1,9 @@
 configVersion: 1.0.0
 generation:
   telemetryEnabled: false
-  sdkClassName: SDK
+  sdkClassName: clearbit
   sdkFlattening: true
   singleTagPerOp: false
 go:
-  version: ""
-  packageName: person-v2
+  version: "v1"
+  packageName: github.com/speakeasy-sdks/clearbit-dev-go
